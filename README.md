@@ -1,5 +1,4 @@
-# Projeto em andamento!
-### Projeto de Ferramenta Preditiva de Faturamento
+### Projeto de Ferramenta Previsão de Faturamento
 
 O projeto resultou em uma ferramenta preditiva altamente eficaz, que não só proporciona previsões precisas de faturamento, mas também oferece insights valiosos para orientar as estratégias de marketing, gestão de estoque e melhorias na experiência do cliente. Com o uso do Python, conseguimos transformar dados brutos em insights acionáveis, ajudando a empresa a maximizar seu desempenho e alcançar seus objetivos de negócio.
 
